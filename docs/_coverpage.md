@@ -9,4 +9,4 @@
 - 照片
 
 [库](https://github.com/docsifyjs/docsify/)
-[进入](#docsify)
+[进入](#README)
